@@ -1,2 +1,2 @@
-
+let DoggosHeader = document.querySelector ('h2')
 // Select some elements...
